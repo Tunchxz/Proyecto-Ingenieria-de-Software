@@ -1,0 +1,37 @@
+1. ¿Cuáles son las principales tareas que realizas en tu puesto?
+Como tarea principal tengo que asegurar que el cierre de caja se realice correctamente, con toda la información registrada de forma exacta. También tengo que supervisar que el inventario y las ventas del turno coincidan con lo que se encuentra registrado en el sistema y otra tarea principal que tengo que realizar es el coordinar la entrega de la caja para el siguiente turno y reportar cualquier irregularidad al gerente general.
+
+
+2. ¿Podrías describir paso a paso cómo realizas tus tareas diarias?
+Primero debo de revisar el estado de la caja registradora y verifico el saldo inicial. Durante el turno, monitoreo las ventas, superviso el equipo y resuelvo problemas con pagos o facturación. Para el cierre de caja extraigo un reporte de ventas y transacciones del sistema, despues de ello comparo el dinero en caja con el monto registrado en el sistema. Tambien reviso pagos con tarjeta y otras formas de pago para verificar que no hayan irregularidades, si en algun punto llego a encontrar diferencias en caja identifico posibles errores y estos los debo de reportar al gerente general, y al final debo de organizar todo el efectivo y los documentos para el siguiente turno y por ultimo guardo el los datos en el sistema y envoi el informe al gerente general.
+
+3. ¿Existen procesos manuales que consideres repetitivos o ineficientes?
+Sí. Algunas tareas, como la conciliación de pagos en efectivo y tarjeta, estas tareas requieren de mucho tiempo porque hay que hacerlo de manera manual. También, la documentación de incidencias en papel es engorrosa y podría digitalizarse para mayor eficiencia.
+
+4. ¿Qué información necesitas recibir de otros para hacer bien tu trabajo?
+Necesito recibir un reporte del turno anterior con el saldo inicial, las ventas registradas, cualquier incidencia con clientes o con el sistema de caja, y si hubo ajustes en precios o promociones. También es importante tener la informacion sobre los cambios que se hayan realizado en el inventario para evitar problemas con productos agotados.
+
+5. ¿Cuáles son los mayores desafíos en la gestión de tu trabajo?
+Uno de los mayores retos es asegurar que no haya diferencias en caja al final del turno, ya que incluso pequeños errores pueden generar problemas. También, la comunicación entre turnos a veces no es clara, lo que dificulta dar continuidad a ciertos procesos. Tambien el manejar pagos mixtos, que son cuando pagan cierta cantidad en efectivo y otra en tarjeta y los reembolsos pueden ser complicado si el sistema no es preciso.
+
+6. Si pudieras cambiar una cosa en la forma en que trabajas, ¿qué sería?
+Mejoraría la automatización del cierre de caja para reducir errores y que el sistema logre generar reportes automáticos y verificar icongruencias en tiempo real.
+
+7. ¿Cómo cambia tu rol en comparación con otros turnos del día? (Ejemplo: apertura vs. cierre)
+A diferencia del turno de apertura, donde se prepara la caja y se inicia el día, el cierre requiere una revisión exhaustiva de todas las transacciones. También tengo que coordinar la entrega del efectivo para depósito y asegurar que todo quede listo para el siguiente turno.
+
+8. ¿Cuáles son los indicadores clave que revisas al inicio y al final de tu turno?
+Al inicio reviso el saldo inicial de caja, estado del sistema y disponibilidad del inventario.
+Final: Total de ventas del día, dinero en efectivo en caja, pagos con tarjeta, discrepancias en montos y reportes de incidencias.
+
+9. ¿Qué tan intuitivo o eficiente consideras el sistema de cierre de caja actual?
+Es funcional, pero podría ser más intuitivo. Algunas tareas, como la conciliación de pagos y la revisión de transacciones, podrían ser más rápidas si el sistema automatizara la detección de incongruencias.
+
+10. ¿Cómo verificas que los montos de cierre de caja coincidan con las transacciones del día?
+Comparo el dinero en caja con el reporte del sistema, verifico que los pagos con tarjeta estén reflejados correctamente y reviso manualmente cualquier diferencia. Si hay un error, consulto los recibos y registros del día para encontrar la causa.
+
+11. ¿Cómo documentas o reportas problemas de caja, inventario o servicio al siguiente turno o gerente general?
+Uso un formulario de incidencias donde detallo el problema y su posible causa. En algunos casos, lo reporto directamente al gerente general si es algo urgente. También dejo notas en el sistema para que el siguiente turno esté informado.
+
+12. ¿Cuáles son los errores más comunes en el cierre de caja y cómo los corriges?
+Uno de los errores mas comunes es la diferencia en caja generalmente ocurren por errores al dar cambio o registrar pagos, se corrige revisando los recibos y las transacciones del día. Otro error son los pagos duplicados para correjirlo se revisan los registros del sistema y se ajustan de manera manual. A veces un producto mal registrado puede alterar las cifras por lo que se debe de revisar el inventario y las ventas para hacer los ajustes necesarios.
