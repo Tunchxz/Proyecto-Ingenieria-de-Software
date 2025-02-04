@@ -1,0 +1,74 @@
+Nombre:
+Gerardo Cisneros
+
+Cuanto tiempo llevas trabajando en esta posición?
+9
+
+
+¿Cuáles son las principales tareas que realizas en tu puesto?
+Inventario, ingresos y egresos de bodega
+
+
+¿Podrías describir paso a paso cómo realizas tus tareas diarias?
+Trabajar órdenes o talones en sistema, luego preparar físicamente la mercadería, guardar en cajas la mercadería para su despacho
+
+
+¿Existen procesos manuales que consideres repetitivos o ineficientes?
+No
+
+¿Qué información necesitas recibir de otras personas o departamentos para hacer bien tu trabajo?
+Todos los documentos en orden para el despacho a clientes de parte de ventas o servicios
+
+
+Si pudieras cambiar una cosa en la forma en que trabajas, ¿qué sería?
+Ninguna
+
+
+¿Cómo verificas que los productos en bodega coinciden con los registros en el sistema?
+Conteo físico y verificación en sistema
+
+
+¿Ha llegado a pasar que existen diferencias entre los productos registrados y los productos físicos en bodega? ¿Qué se hace cuando esto sucede?
+Se realiza una investigación de entradas y salidas de inventario
+
+¿Cuáles son los errores más comunes en la gestión de inventario y qué impacto tienen en tu trabajo?
+Malos despachos o malos ingresos
+
+
+¿Alguna vez ha ocurrido que un producto se quede sin existencias sin que se haya detectado a tiempo? ¿Cómo se maneja esa situación?
+Por atraso en los contenedores se ha llegado a quedar sin stock de algunos productos
+
+
+¿Qué tan complicado es recibir y registrar nuevos productos en el inventario?
+Se debe ver las características del producto, tipo de almacenamiento, rotación
+
+Al utilizar una herramienta digital para mejorar tu trabajo, ¿qué funciones consideras imprescindibles o necesarias?
+Que el sistema cuente con consulta de inventario, transacciones
+
+
+¿Crees que un sistema que prediga qué productos se agotarán pronto basándose en datos de ventas seria de ayuda?
+Si, aun que siempre eso puede variar según la demanda o las proyección de ventas
+
+
+¿De que manera prefieres registrar los productos en bodega? manualmente, mediante escaneo de códigos de barras o RFID? Por qué?
+Por medio De código de barras para un rápido manejo del producto a la hora de despachar o realizar inventarios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
