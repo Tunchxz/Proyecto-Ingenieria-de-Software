@@ -1,0 +1,51 @@
+Resumen de la Entrevista con Javier Rodríguez (CEO de Café Aromas)
+
+1. Visión y Metas del Negocio:
+
+Pasión por el café: Javier es profundamente apasionado por ofrecer una experiencia auténtica del café, destacando la calidad y el origen de cada grano.
+
+Metas: Expandir su negocio a otras ciudades sin perder la esencia de calidad, fortalecer la presencia digital mediante una tienda online y estrategias de marketing, y crear una comunidad leal de clientes.
+
+2. Desafíos y Obstáculos Actuales:
+
+Crecimiento y calidad: Uno de sus mayores desafíos es mantener la calidad del producto mientras expande el negocio.
+
+Competencia: Enfrenta la competencia de grandes cadenas, especialmente en precios y marketing.
+
+Tecnología: La adaptación tecnológica y la integración de diversas herramientas es otro reto importante. La falta de un sistema centralizado para manejar ventas físicas y online es una dificultad constante.
+
+3. Herramientas y Tecnología Usada:
+
+Javier utiliza herramientas como Trello y QuickBooks para la gestión de proyectos y la contabilidad, respectivamente. También emplea un sistema POS en cada tienda, aunque menciona que la integración de plataformas sigue siendo un reto.
+
+Mejoras necesarias: Buscar una solución integral que permita la integración de todos los sistemas para optimizar la operación.
+
+4. Necesidades de Mejora en el Sistema Actual:
+
+Gestión integral: Javier desea un sistema único que integre ventas, inventario, recursos humanos y finanzas para mejorar la toma de decisiones y reducir la carga administrativa.
+
+Automatización: Se beneficiaría de la automatización de tareas como la programación de turnos, la reposición de inventarios y la personalización de campañas de marketing.
+
+Analítica avanzada: El análisis de datos es una prioridad para tomar decisiones basadas en datos precisos, pero actualmente no dispone de una herramienta de Business Intelligence adecuada.
+
+5. Proyecciones y Mejoras:
+
+Expansión: Javier planea expandir su negocio a otras ciudades y continuar construyendo la comunidad de clientes a través de la fidelización y el marketing digital.
+
+Sostenibilidad: También busca implementar prácticas sostenibles en el negocio, desde la compra de granos hasta el empaquetado de productos.
+
+6. Principales Desafíos Tecnológicos:
+
+Integración de sistemas: Los distintos sistemas utilizados (para ventas, inventarios, empleados) no se comunican bien entre sí, lo que genera ineficiencias.
+
+Capacitación tecnológica: La formación del personal en el uso de nuevas herramientas tecnológicas sigue siendo un desafío, especialmente a medida que la empresa crece.
+
+Seguridad de la información: La protección de datos de clientes es una prioridad, dado el aumento de transacciones online.
+
+7. Soluciones Deseadas:
+
+Unificación: Un sistema que centralice todos los procesos y facilite la toma de decisiones con información en tiempo real.
+
+Optimización del inventario: Implementar un sistema de gestión de inventarios más eficiente que prediga la demanda y automatice el reabastecimiento.
+
+Atención al cliente: Mejorar la gestión de consultas con herramientas como chatbots y sistemas centralizados de soporte.
