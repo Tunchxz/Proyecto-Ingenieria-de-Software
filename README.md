@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software">
-    <img src="Images/Logouvg.png" alt="LogoUVG" width="150" height="80">
+    <img src="Images/Logouvg.png" alt="LogoUVG" width="300" height="80">
   </a>
 
 <h3 align="center">Proyecto Ingenieria de Software</h3>
