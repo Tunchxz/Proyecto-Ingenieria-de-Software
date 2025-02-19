@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Tunchxz/Proyecto-Ingenieria-de-Software">
-    <img src="images/Logouvg.png" alt="LogoUVG" width="80" height="80">
+    <img src="Images/Logouvg.png" alt="LogoUVG" width="80" height="80">
   </a>
 
 <h3 align="center">Proyecto Ingenieria de Software</h3>
@@ -65,7 +65,7 @@
 <!-- Acerca del Proyecto -->
 ## Acerca del Proyecto
 
-<img src="images/Logo.png" alt="Logo" width="80" height="80">
+<img src="Images/Logo.png" alt="Logo" width="80" height="80">
 
 Este proyecto propone el desarrollo de un sistema integral de gestión de operaciones diseñado específicamente para pequeñas y medianas empresas de los sectores comercial y de servicios, como cafeterías, restaurantes y comercios minoristas. La necesidad de esta solución radica en la falta de integración entre los sistemas de ventas, inventario y administración, lo que genera ineficiencias operativas, incrementa los costos y obstaculiza la toma de decisiones estratégicas. 
 
